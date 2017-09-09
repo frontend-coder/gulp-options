@@ -1,0 +1,45 @@
+{
+  "name": "mini-subscription-page-v3",
+  "version": "1.0.0",
+  "description": "try gulp set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://frontend-coder@bitbucket.org/frontend-coder/mini-subscription-page-v3.git"
+  },
+  "author": "frontend-coder",
+  "license": "UNLICENSED",
+  "homepage": "https://bitbucket.org/frontend-coder/mini-subscription-page-v3#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-iconfont": "^8.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-notify": "^3.0.0",
+    "gulp-notify-growl": "^1.0.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-real-favicon": "^0.2.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "gulp.spritesmith": "^6.5.0",
+    "imagemin-pngquant": "^5.0.1",
+    "jshint": "^2.9.5"
+  },
+  "dependencies": {
+    "gulp-cache": "^0.4.6",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglifyjs": "^0.6.2"
+  }
+}

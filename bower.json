@@ -1,0 +1,19 @@
+{
+  "name": "mini-subscription-page-v3",
+  "description": "try gulp set",
+  "main": "index.js",
+  "authors": [
+    "frontend-coder"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
